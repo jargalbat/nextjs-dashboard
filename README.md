@@ -14,3 +14,6 @@ npm i
 
 # Run
 npm run dev
+
+# Seed
+npm run seed
